@@ -1,6 +1,6 @@
-#초ㅣ대 고ㅇ야ㄱ수 구하기
-#a. 주어지ㄴ수 모두으ㅣ 야ㄱ수이ㄴ 저ㅇ수
-#b. input 2개 A,B
+# 최대 공약수 구하기
+# a.주어진 수 모두의 약수인 정수
+# b. input 2개 A,B
 A,B = input("positive integers: ").split()
 A= int(A)
 B = int(B)
