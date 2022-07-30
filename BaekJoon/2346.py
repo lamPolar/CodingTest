@@ -24,3 +24,4 @@ while (count < n):
     count += 1
     
 # 참고 사이트 https://velog.io/@hygge/Python-백준-2346-풍선-터뜨리기-deque
+# 참고 사이트2 https://leonkong.cc/posts/python-deque.html
